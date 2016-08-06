@@ -1,2 +1,2 @@
-# options
-a plugin of options
+[Options](https://github.com/jnxyx/options) — Plugin of Options
+==================================================
